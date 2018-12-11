@@ -1,0 +1,166 @@
+,character,mentions1,percent1
+1,Harry Potter,18956,99.5
+2,Ron Weasley,6464,98.6
+3,Hermione Granger,5486,97.5
+4,Albus Dumbledore,2421,96.6
+7,George Weasley,821,95.8
+8,Severus Snape,1956,94.7
+10,Voldemort,1797,94.1
+17,Fleur Delacour,258,93.5
+20,Draco Malfoy,1198,92.9
+22,Sirius Black,1471,92.4
+23,Rubeus Hagrid,2024,92.2
+27,Neville Longbottom,810,88.2
+30,Remus Lupin,864,87.3
+31,Luna Lovegood,356,82.8
+33,Dudley Dursley,467,82.4
+34,Dobby,469,82
+35,Minerva McGonagall,770,81.8
+40,Alastor 'Mad-Eye' Moody,583,80.6
+41,Peter Pettigrew,486,80.2
+42,Gregory Goyle,228,79.3
+43,Bellatrix Lestrange,220,79.2
+44,Cedric Diggory,353,78.5
+45,Nymphadora Tonks,242,78
+47,Vincent Crabbe,224,77.7
+48,Cho Chang,215,77.6
+49,Viktor Krum,277,77.3
+52,Dolores Umbridge,637,76.3
+54,Seamus Finnigan,179,74.5
+56,Cornelius Fudge,493,73.4
+57,Hedwig,204,72.9
+58,Filius Flitwick,140,72.6
+59,Dean Thomas,212,72.1
+60,Barty Crouch Sr.,295,71.1
+62,Katie Bell,116,70.6
+63,Gilderoy Lockhart,262,69.7
+64,Parvati Patil,133,69
+65,Quirinus Quirrell,122,68.3
+67,Pomona Sprout,90,67.6
+69,Nearly Headless Nick,123,66.5
+71,Helga Hufflepuff,14,66.2
+72,Kreacher,312,66
+73,Salazar Slytherin,70,66
+74,Horace Slughorn,432,65
+75,Argus Filch,288,64.9
+76,Oliver Wood,208,64.9
+77,Sybill Trelawney,262,64.8
+78,Godric Gryffindor,63,64.6
+80,Lavender Brown,141,64
+82,Kingsley Shacklebolt,106,60.5
+83,Crookshanks,162,60.5
+84,Colin Creevey,77,59.4
+85,Angelina Johnson,135,58.1
+86,Garrick Ollivander,117,57
+87,Buckbeak,136,56.9
+88,Winky,162,56.1
+89,Bloody Baron,24,55.8
+90,Poppy Pomfrey,156,54.3
+92,Fang,105,53.6
+93,Rita Skeeter,188,53.5
+94,Igor Karkaroff,165,53.5
+95,Aragog,49,53.5
+96,Fluffy,27,53.4
+97,Moaning Myrtle,119,53
+98,Pansy Parkinson,68,52.8
+99,Peeves,164,52.6
+100,Mrs. Norris,59,52
+101,Nagini,30,50.8
+102,Olympe Maxime,112,49.8
+103,Marvolo Gaunt,68,49.8
+104,Rufus Scrimgeour,153,49.7
+105,Firenze,75,49.6
+106,Bathilda Bagshot,77,49.3
+107,Lee Jordan,109,49
+108,Fenrir Greyback,102,48.8
+109,Merope Gaunt,32,48.7
+110,Mundungus Fletcher,147,48.5
+111,Morfin Gaunt,63,48.4
+112,Rolanda Hooch,53,48.2
+113,Griphook,140,48.1
+114,Ludo Bagman,246,47.6
+115,Amycus Carrow,23,47.6
+117,Fat Lady,72,46.6
+118,Norbert,36,46.3
+119,Pigwidgeon,60,46.2
+120,Grawp,75,45.7
+121,Ernie Macmillan,92,45.7
+122,Alicia Spinnet,58,45
+123,Cuthbert Binns,48,44.9
+124,Gellert Grindelwald,73,44.1
+125,Amelia Bones,35,44.1
+126,Zacharias Smith,48,43.5
+127,Stan Shunpike,85,43.3
+128,Errol,26,43
+129,Hepzibah Smith,27,42.6
+130,Arabella Figg,55,41.8
+131,Ernie Prang,34,41.6
+132,Hannah Abbott,26,41.6
+133,Justin Finch-Fletchley,50,41.4
+134,Blaise Zabini,47,40.8
+135,Bane,30,40
+136,Cormac McLaggen,73,39.2
+137,Fawkes,64,39.1
+138,Madam Rosmerta,49,38.6
+139,Yaxley,56,38.3
+140,Wilhelmina Grubbly-Plank,57,37.2
+141,Marcus Flint,40,35.6
+142,Trevor,18,35.5
+143,Nicolas Flamel,31,33.9
+144,Gregorovitch,49,33.5
+145,Antonin Dolohov,34,33.4
+146,Dedalus Diggle,27,33.3
+147,Irma Pince,19,33.3
+148,Hokey,19,31.5
+149,Reg Cattermole,23,31.4
+150,Mr. Borgin,51,31.4
+151,Pius Thicknesse,20,31.4
+152,Mary Cattermole,31,31.2
+153,Avery,13,31
+154,Elphias Doge,62,31
+155,Caractacus Burke,13,30.5
+156,Romilda Vane,18,30.3
+157,Michael Corner,26,30.2
+158,Marietta Edgecombe,48,30.1
+159,Millicent Bulstrode,17,29.5
+160,Madam Malkin,25,29.2
+161,Hestia Jones,16,28.9
+162,Walden Macnair,27,28.8
+163,Mafalda Hopkirk,16,28.5
+164,Sir Cadogan,23,27.4
+165,Terry Boot,14,27
+166,Augustus Rookwood,25,26.9
+167,Frank Bryce,63,26.9
+168,Ronan,23,26.8
+169,Piers Polkiss,16,26.3
+170,Bertha Jorkins,42,26
+171,Armando Dippet,21,26
+172,Travers,41,25.9
+173,Albert Runcorn,19,25.5
+174,Troy,12,25.3
+175,Bob Ogden,68,23.8
+176,Dawlish,19,22.9
+177,Roger Davies,30,22.9
+178,Leanne,20,22.5
+179,Beedle the Bard,17,22.3
+180,Montague,33,22
+181,Magorian,18,21.4
+182,Mr. Roberts,20,21.3
+183,Broderick Bode,26,20.9
+184,Marcus Belby,14,20.3
+185,Moran,16,20.1
+186,Professor Tofty,13,20.1
+187,Mrs. Cole,21,19.9
+188,Jimmy Peakes,13,19.9
+189,Dirk Cresswell,23,19.9
+190,Sturgis Podmore,23,19.3
+191,Scabior,17,19.3
+192,Wilkie Twycross,13,18.8
+193,Aidan Lynch,16,18.6
+194,Demelza Robins,16,18.6
+195,Bogrod,15,18.4
+196,Griselda Marchbanks,18,18.1
+197,Warrington,22,17.3
+198,Hassan Mostafa,13,16.7
+199,Karkus,13,16.6
+200,Adrian Pucey,13,16.3
